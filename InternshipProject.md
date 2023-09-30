@@ -1,6 +1,8 @@
 #Setting Up a Scalable Web Application on AWS Elastic Bean Stalk 
 
-https://github.com/CHEPURIGOPIKRISHNA/infotrixs/assets/144492549/57cfa325-3669-4467-90cb-f3f742eae58e# Setting Up a Scalable Web Application on AWS Elastic Beanstalk 
+https://github.com/CHEPURIGOPIKRISHNA/infotrixs/assets/144492549/57cfa325-3669-4467-90cb-f3f742eae58e
+
+# Setting Up a Scalable Web Application on AWS Elastic Beanstalk 
 Video Demonstration
 For a visual walkthrough of this setup, please refer to the attached video demonstrating the entire process of setting up your scalable web application on AWS Elastic Beanstalk and using SQL Electron to view database details.
 
